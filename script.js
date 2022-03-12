@@ -1,1 +1,1 @@
-console.log('Testing');
+const Form = document.getElementById('form');
